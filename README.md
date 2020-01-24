@@ -1,4 +1,6 @@
 Calculator.js: a node.js Demonstration Project
+
+[![Build Status](https://dev.azure.com/laigbodioh/secondTask/_apis/build/status/testrungirl.calculator?branchName=master)](https://dev.azure.com/laigbodioh/secondTask/_build/latest?definitionId=2&branchName=master)
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
